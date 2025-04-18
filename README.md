@@ -1,7 +1,7 @@
-# 🌍 Live Demo
-🔗 https://mpi91.ir
+# Live Demo
+https://mpi91.ir
 
-# 🛠 Tech Stack
+# Tech Stack
 HTML5
 
 CSS3
