@@ -13,7 +13,7 @@ export default function Main() {
         title={"پروژه تمرینی"}
         description={"HTML5, CSS3, JavaScript, React, Swiper.js and TailwindCSS"}
         image={arrow}
-        to={"http://arrow.mpi91.ir"}
+        to={"http://arrow.moplidev.ir"}
         flex={"row-reverse"}
         position={"-right-12"}
       ></Project>
@@ -21,7 +21,7 @@ export default function Main() {
         title={"وب‌سایت شخصی"}
         description={"HTML5, CSS3, JavaScript, React and TailwindCSS"}
         image={moplidev}
-        to={"http://mpi91.ir"}
+        to={"http://moplidev.ir"}
         flex={"row"}
         position={"-left-12"}
       ></Project>
